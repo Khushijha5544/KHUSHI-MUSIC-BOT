@@ -79,8 +79,8 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("tg_friendss")
-                await self.two.join_chat("vip_creators")
+                await self.two.join_chat("love_ka_funda")
+                await self.two.join_chat("new_devil_world")
             except:
                 pass
             assistants.append(2)
