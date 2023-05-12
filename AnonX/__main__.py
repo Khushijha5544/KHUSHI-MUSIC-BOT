@@ -67,7 +67,7 @@ async def init():
     except:
         pass
     await Anon.decorators()
-    LOGGER("AnonX").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝐃𝐄𝐕𝐈𝐋 𝐒𝐄𝐑𝐕𝐄𝐑♨️\n╚═════ஜ۩۞۩ஜ════╝")
+    LOGGER("AnonX").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝐊𝐇𝐔𝐒𝐇𝐈 𝐒𝐄𝐑𝐕𝐄𝐑♨️\n╚═════ஜ۩۞۩ஜ════╝")
     await idle()
 
 
