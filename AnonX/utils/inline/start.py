@@ -47,13 +47,13 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
                 text="🍒𝐆𝐫𝐨𝐮𝐩🍒", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
-                text="🏠𝐎𝐟𝐟𝐢𝐜𝐞🏠", url=f"https://t.me/new_devil_world",
+                text="🏠𝐎𝐟𝐟𝐢𝐜𝐞🏠", url=f"https://t.me/Ajanabee_Duniya",
             )
         ],
         [
             InlineKeyboardButton(
                 text="🌱ƨσʋяcɛ🌱",
-                url=f"https://github.com/devidop/veerop",
+                url=f"https://github.com/Khushijha5544/KHUSHI-MUSIC-BOT",
             )
         ],
      ]
