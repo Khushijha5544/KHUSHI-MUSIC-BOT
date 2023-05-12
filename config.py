@@ -31,7 +31,7 @@ SONG_DOWNLOAD_DURATION = int(
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 
 # A name for your Music bot.
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "MAHAKALI MUSIC")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "KHUSHIMUSICBOT")
 
 # Your User ID.
 OWNER_ID = list(
@@ -56,10 +56,10 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/about_devil30"
+    "SUPPORT_CHANNEL", "https://t.me/ab_krishna_uff"
 )  # Example:- https://t.me/about_devil30
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/new_devil_world"
+    "SUPPORT_GROUP", "https://t.me/Ajanabee_Duniya"
 )  # Example:- https://t.me/new_devil_world
 SUPPORT_HEHE = SUPPORT_GROUP
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
@@ -163,7 +163,7 @@ START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/a536a334a6e9d0
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://te.legra.ph/file/b97021f191818cbdeefaf.jpg",
+    "https://te.legra.ph/file/a53fd033fee0b93bea70c.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
@@ -178,7 +178,7 @@ GLOBAL_IMG_URL = getenv(
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://te.legra.ph/file/10d18fa771f0845c48ad2.jpg",
+    "https://te.legra.ph/file/a53fd033fee0b93bea70c.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
@@ -193,7 +193,7 @@ TELEGRAM_VIDEO_URL = getenv(
 
 STREAM_IMG_URL = getenv(
     "STREAM_IMG_URL",
-    "https://te.legra.ph/file/ecdeac045f4045c198bd6.jpg",
+    "https://te.legra.ph/file/a53fd033fee0b93bea70c.jpg",
 )
 
 SOUNCLOUD_IMG_URL = getenv(
